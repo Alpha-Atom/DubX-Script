@@ -1,0 +1,90 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+$chatTarget	/Users/Matt/Work/DubX-Script/beta.js	/^            var $chatTarget = $('.chat-main .text').last();$/;"	v	language:JavaScript
+aCp	/Users/Matt/Work/DubX-Script/beta.js	/^            var aCp =  document.getElementById('autocomplete-preview');$/;"	v	language:JavaScript
+acUL	/Users/Matt/Work/DubX-Script/beta.js	/^            var acUL = document.createElement('ul');$/;"	v	language:JavaScript
+arrayToUse	/Users/Matt/Work/DubX-Script/beta.js	/^                var arrayToUse = emojify.emojiNames;$/;"	v	language:JavaScript
+booth_duration	/Users/Matt/Work/DubX-Script/beta.js	/^            var booth_duration = parseInt($('.queue-position').text());$/;"	v	language:JavaScript
+check	/Users/Matt/Work/DubX-Script/beta.js	/^            var check = function () {$/;"	f	language:JavaScript
+cssClass	/Users/Matt/Work/DubX-Script/beta.js	/^            var cssClass = "selected";$/;"	v	language:JavaScript
+css_to_import	/Users/Matt/Work/DubX-Script/beta.js	/^            var css_to_import = $('.input').val();$/;"	v	language:JavaScript
+current_time	/Users/Matt/Work/DubX-Script/beta.js	/^            var current_time = parseInt($('#player-controller div.left ul li.infoContainer.display-block div.currentTime span.min').text());$/;"	v	language:JavaScript
+currInterval	/Users/Matt/Work/DubX-Script/beta.js	/^            var currInterval = 0;$/;"	v	language:JavaScript
+cursorPos	/Users/Matt/Work/DubX-Script/beta.js	/^            var cursorPos = $(this).get(0).selectionStart;$/;"	v	language:JavaScript
+day	/Users/Matt/Work/DubX-Script/beta.js	/^            var day = 86400000; \/\/ milliseconds$/;"	v	language:JavaScript
+dubCookie	/Users/Matt/Work/DubX-Script/beta.js	/^                var dubCookie = Dubtrack.helpers.cookie.get('dub-' + Dubtrack.room.model.get("_id"));$/;"	v	language:JavaScript
+dubsong	/Users/Matt/Work/DubX-Script/beta.js	/^                var dubsong = Dubtrack.helpers.cookie.get('dub-song');$/;"	v	language:JavaScript
+emoted	/Users/Matt/Work/DubX-Script/beta.js	/^            var emoted = $chatTarget.html().replace(_regex, function(matched, p1){$/;"	v	language:JavaScript
+enterToSelectSpan	/Users/Matt/Work/DubX-Script/beta.js	/^            var enterToSelectSpan = '<span class="ac-list-press-enter">press enter to select<\/span>';$/;"	v	language:JavaScript
+filterText	/Users/Matt/Work/DubX-Script/beta.js	/^            var filterText = currentText.replace(inputRegex, function(matched, p1, p2, p3, pos, str){$/;"	v	language:JavaScript
+frag	/Users/Matt/Work/DubX-Script/beta.js	/^            var frag = document.createDocumentFragment();$/;"	v	language:JavaScript
+function.closeErr	/Users/Matt/Work/DubX-Script/beta.js	/^    function closeErr() {$/;"	f	language:JavaScript
+function.onErr	/Users/Matt/Work/DubX-Script/beta.js	/^    function onErr(error) {$/;"	f	language:JavaScript
+hello.initialize	/Users/Matt/Work/DubX-Script/beta.js	/^        initialize: function() {$/;"	m	language:JavaScript
+hello.sectionList	/Users/Matt/Work/DubX-Script/beta.js	/^        sectionList: ['draw_general','draw_userinterface','draw_settings','draw_customize','draw_contact','draw_social','draw_chrome'],$/;"	p	language:JavaScript
+hello.slide	/Users/Matt/Work/DubX-Script/beta.js	/^        slide: function() {$/;"	m	language:JavaScript
+hello_run	/Users/Matt/Work/DubX-Script/beta.js	/^var hello_run;$/;"	v	language:JavaScript
+href	/Users/Matt/Work/DubX-Script/beta.js	/^            var href = location.href;$/;"	v	language:JavaScript
+id	/Users/Matt/Work/DubX-Script/beta.js	/^            var id = Dubtrack.realtime.dtPubNub.get_uuid();$/;"	v	language:JavaScript
+keyCharMin	/Users/Matt/Work/DubX-Script/beta.js	/^            var keyCharMin = 3; \/\/ when to start showing previews, default to 3 chars$/;"	v	language:JavaScript
+lastChar	/Users/Matt/Work/DubX-Script/beta.js	/^            var lastChar = currentText.charAt(currentText.length - 1);$/;"	v	language:JavaScript
+lastSaved	/Users/Matt/Work/DubX-Script/beta.js	/^            var lastSaved = parseInt(localStorage.getItem(apiName+'_api_timestamp'));$/;"	v	language:JavaScript
+limit	/Users/Matt/Work/DubX-Script/beta.js	/^            var limit = 50; \/\/ how many intervals$/;"	v	language:JavaScript
+listArray	/Users/Matt/Work/DubX-Script/beta.js	/^                var listArray = [];$/;"	v	language:JavaScript
+location	/Users/Matt/Work/DubX-Script/beta.js	/^                var location = Dubtrack.room.model.get('roomUrl');$/;"	v	language:JavaScript
+makeImage	/Users/Matt/Work/DubX-Script/beta.js	/^            function makeImage(type, src, name, w, h){$/;"	f	language:JavaScript
+makeImg	/Users/Matt/Work/DubX-Script/beta.js	/^            function makeImg(src, altText) {$/;"	f	language:JavaScript
+makeLi	/Users/Matt/Work/DubX-Script/beta.js	/^            function makeLi (info){$/;"	f	language:JavaScript
+makeNameSpan	/Users/Matt/Work/DubX-Script/beta.js	/^            function makeNameSpan (name){$/;"	f	language:JavaScript
+makePreviewContainer	/Users/Matt/Work/DubX-Script/beta.js	/^            function makePreviewContainer(cn){$/;"	f	language:JavaScript
+mentionTriggers	/Users/Matt/Work/DubX-Script/beta.js	/^            var mentionTriggers = ['@'+user];$/;"	v	language:JavaScript
+n.onclick	/Users/Matt/Work/DubX-Script/beta.js	/^                n.onclick = function(x) {$/;"	f	language:JavaScript
+oBoxCollection	/Users/Matt/Work/DubX-Script/beta.js	/^            var oBoxCollection = $(".ac-show li");$/;"	v	language:JavaScript
+onErr	/Users/Matt/Work/DubX-Script/beta.js	/^            var onErr = [$/;"	v	language:JavaScript
+savedData	/Users/Matt/Work/DubX-Script/beta.js	/^            var savedData;$/;"	v	language:JavaScript
+savedData	/Users/Matt/Work/DubX-Script/beta.js	/^            var savedData;$/;"	v	language:JavaScript
+savedData	/Users/Matt/Work/DubX-Script/beta.js	/^            var savedData;$/;"	v	language:JavaScript
+song	/Users/Matt/Work/DubX-Script/beta.js	/^                var song = Dubtrack.room.player.activeSong.get('song');$/;"	v	language:JavaScript
+startNotifications	/Users/Matt/Work/DubX-Script/beta.js	/^            function startNotifications(permission) {$/;"	f	language:JavaScript
+strEnd	/Users/Matt/Work/DubX-Script/beta.js	/^            var strEnd;$/;"	v	language:JavaScript
+strStart	/Users/Matt/Work/DubX-Script/beta.js	/^            var strStart;$/;"	v	language:JavaScript
+today	/Users/Matt/Work/DubX-Script/beta.js	/^            var today = Date.now();$/;"	v	language:JavaScript
+updatedText	/Users/Matt/Work/DubX-Script/beta.js	/^            var updatedText = inputText.split(' ').map(function(c,i,r){$/;"	v	language:JavaScript
+user	/Users/Matt/Work/DubX-Script/beta.js	/^            var user = Dubtrack.session.get('username').toLowerCase();$/;"	v	language:JavaScript
+user	/Users/Matt/Work/DubX-Script/beta.js	/^            var user = Dubtrack.session.get('username');$/;"	v	language:JavaScript
+var.hello.gitRoot	/Users/Matt/Work/DubX-Script/beta.js	/^        gitRoot: 'https:\/\/raw.githack.com\/sinfulBA\/DubX-Script\/master',$/;"	p	language:JavaScript
+var.hello.personalize	/Users/Matt/Work/DubX-Script/beta.js	/^        personalize: function() {$/;"	m	language:JavaScript
+var.notificationOptions.body	/Users/Matt/Work/DubX-Script/beta.js	/^                    body: content,$/;"	p	language:JavaScript
+var.notificationOptions.icon	/Users/Matt/Work/DubX-Script/beta.js	/^                    icon: "https:\/\/res.cloudinary.com\/hhberclba\/image\/upload\/c_lpad,h_100,w_100\/v1400351432\/dubtrack_new_logo_fvpxa6.png"$/;"	p	language:JavaScript
+var.options.draw_chrome	/Users/Matt/Work/DubX-Script/beta.js	/^        draw_chrome: false$/;"	p	language:JavaScript
+var.options.draw_contact	/Users/Matt/Work/DubX-Script/beta.js	/^        draw_contact: false,$/;"	p	language:JavaScript
+var.options.draw_customize	/Users/Matt/Work/DubX-Script/beta.js	/^        draw_customize: false,$/;"	p	language:JavaScript
+var.options.draw_general	/Users/Matt/Work/DubX-Script/beta.js	/^        draw_general: false,$/;"	p	language:JavaScript
+var.options.draw_settings	/Users/Matt/Work/DubX-Script/beta.js	/^        draw_settings: false,$/;"	p	language:JavaScript
+var.options.draw_social	/Users/Matt/Work/DubX-Script/beta.js	/^        draw_social: false,$/;"	p	language:JavaScript
+var.options.draw_userinterface	/Users/Matt/Work/DubX-Script/beta.js	/^        draw_userinterface: false,$/;"	p	language:JavaScript
+var.options.let_active_afk	/Users/Matt/Work/DubX-Script/beta.js	/^        let_active_afk: true,$/;"	p	language:JavaScript
+var.options.let_afk	/Users/Matt/Work/DubX-Script/beta.js	/^        let_afk: false,$/;"	p	language:JavaScript
+var.options.let_autocomplete_mentions	/Users/Matt/Work/DubX-Script/beta.js	/^        let_autocomplete_mentions: false,$/;"	p	language:JavaScript
+var.options.let_autovote	/Users/Matt/Work/DubX-Script/beta.js	/^        let_autovote: false,$/;"	p	language:JavaScript
+var.options.let_chat_window	/Users/Matt/Work/DubX-Script/beta.js	/^        let_chat_window: false,$/;"	p	language:JavaScript
+var.options.let_css	/Users/Matt/Work/DubX-Script/beta.js	/^        let_css: false,$/;"	p	language:JavaScript
+var.options.let_custom_mentions	/Users/Matt/Work/DubX-Script/beta.js	/^        let_custom_mentions: false,$/;"	p	language:JavaScript
+var.options.let_emoji_preview	/Users/Matt/Work/DubX-Script/beta.js	/^        let_emoji_preview: false,$/;"	p	language:JavaScript
+var.options.let_fs	/Users/Matt/Work/DubX-Script/beta.js	/^        let_fs: false,$/;"	p	language:JavaScript
+var.options.let_hide_avatars	/Users/Matt/Work/DubX-Script/beta.js	/^        let_hide_avatars: false,$/;"	p	language:JavaScript
+var.options.let_medium_disable	/Users/Matt/Work/DubX-Script/beta.js	/^        let_medium_disable: false,$/;"	p	language:JavaScript
+var.options.let_mention_notifications	/Users/Matt/Work/DubX-Script/beta.js	/^        let_mention_notifications: false,$/;"	p	language:JavaScript
+var.options.let_nicole	/Users/Matt/Work/DubX-Script/beta.js	/^        let_nicole: false,$/;"	p	language:JavaScript
+var.options.let_show_timestamps	/Users/Matt/Work/DubX-Script/beta.js	/^        let_show_timestamps: false,$/;"	p	language:JavaScript
+var.options.let_snow	/Users/Matt/Work/DubX-Script/beta.js	/^        let_snow: false,$/;"	p	language:JavaScript
+var.options.let_spacebar_mute	/Users/Matt/Work/DubX-Script/beta.js	/^        let_spacebar_mute: false,$/;"	p	language:JavaScript
+var.options.let_split_chat	/Users/Matt/Work/DubX-Script/beta.js	/^        let_split_chat: false,$/;"	p	language:JavaScript
+var.options.let_twitch_emotes	/Users/Matt/Work/DubX-Script/beta.js	/^        let_twitch_emotes: false,$/;"	p	language:JavaScript
+var.options.let_video_window	/Users/Matt/Work/DubX-Script/beta.js	/^        let_video_window: false,$/;"	p	language:JavaScript
+var.options.let_warn_redirect	/Users/Matt/Work/DubX-Script/beta.js	/^        let_warn_redirect: false,$/;"	p	language:JavaScript
+window	/Users/Matt/Work/DubX-Script/beta.js	/^                window.onblur = function () {$/;"	m	language:JavaScript
+window	/Users/Matt/Work/DubX-Script/beta.js	/^                window.onfocus = function () {$/;"	m	language:JavaScript
+window.onbeforeunload	/Users/Matt/Work/DubX-Script/beta.js	/^                window.onbeforeunload = function(e) {$/;"	f	language:JavaScript
+woosh	/Users/Matt/Work/DubX-Script/beta.js	/^            var woosh = [$/;"	v	language:JavaScript
+_key	/Users/Matt/Work/DubX-Script/beta.js	/^                var _key;$/;"	v	language:JavaScript
+_regex	/Users/Matt/Work/DubX-Script/beta.js	/^            var _regex = self.twitch.chatRegex;$/;"	v	language:JavaScript

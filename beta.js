@@ -71,7 +71,7 @@ if (!hello_run && Dubtrack.session.id) {
 
     //Ref 2: Options
     var hello = {
-        gitRoot: 'https://rawgit.com/sinfulBA/DubX-Script/master',
+        gitRoot: 'https://raw.githack.com/sinfulBA/DubX-Script/master',
         //Ref 2.1: Initialize
         personalize: function() {
             $('.isUser').text(Dubtrack.session.get('username'));
@@ -277,7 +277,7 @@ if (!hello_run && Dubtrack.session.id) {
             $('.header-right-navigation').append(li);
             $('body').prepend(html);
             $('.for_content').perfectScrollbar({ wheelSpeed: 30, suppressScrollX: true });
-            $.getScript('https://rawgit.com/loktar00/JQuery-Snowfall/master/src/snowfall.jquery.js');
+            $.getScript('https://raw.githack.com/loktar00/JQuery-Snowfall/master/src/snowfall.jquery.js');
         },
         sectionList: ['draw_general','draw_userinterface','draw_settings','draw_customize','draw_contact','draw_social','draw_chrome'],
         drawSection: function(el) {
